@@ -33,6 +33,7 @@ var (
 			ttnpb.PHYVersion_RP002_V1_0_3:       AS_923_RP2_v1_0_3,
 		},
 		AS_923_2: {
+			ttnpb.PHYVersion_RP001_V1_0_2: AS_923_2_RP2_v1_0_1,
 			ttnpb.PHYVersion_RP002_V1_0_1: AS_923_2_RP2_v1_0_1,
 			ttnpb.PHYVersion_RP002_V1_0_2: AS_923_2_RP2_v1_0_2,
 			ttnpb.PHYVersion_RP002_V1_0_3: AS_923_2_RP2_v1_0_3,
